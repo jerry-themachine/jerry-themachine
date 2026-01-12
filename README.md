@@ -5,9 +5,18 @@
 <img align="right" alt="Jerry-Matrix" height="73" width="73" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Loading_icon_cropped.gif">
 </div>
 
-- 🔭 Desenvolvedor em desenvolvimento
-- 🌱 Atualmente estou estudando javascript
-- 🐾️ Estou procurando uma colocação como desenvolvedor front-end junior
+- 🔭 Sou Jerry, Analista de Dados Pleno com 04 anos de experiência em análise de dados e inteligência de negócios. Com uma formação em Análise e Desenvolvimento de Sistemas, eu me especializei em coletar, processar e analisar grandes conjuntos de dados para identificar tendências e oportunidades de melhoria.
+
+Minhas skills incluem:
+- Análise de dados estatísticos e avançados
+- Desenvolvimento de dashboards e relatórios interativos
+- Modelagem de dados e previsão
+- Identificação de oportunidades de melhoria e otimização de processos
+- Colaboração com equipes de negócios e TI para implementar soluções de dados
+
+Estou procurando uma oportunidade para aplicar minhas habilidades e experiência como Especialista de BI, ajudando a impulsionar o crescimento e a eficiência dos negócios através de insights baseados em dados.
+
+Através de minhas experiências no mercado de telecom, adquiri habilidades em Business Intelligence, fazendo tratativas com clientes e fornecedores B2B e B2C, e acredito poder contribuir diretamente de modo eficaz para o sucesso das organizações.
 - 😄 Pronomes: ele / dele
 
  ##
@@ -43,15 +52,12 @@
   #### Contatos:
 
 <div>
-  <a href="https://www.instagram.com/je.rr.y_33" alt="Instagram" target="_blank">
-  <img src = "https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/USERNAME">
-</a>
-
+ 
   <a href="https://www.linkedin.com/feed/" alt="Linkedin" target="_blank">
   <img src = "https://img.shields.io/badge/-Linkedin-01A9DB?style=for-the-badge&labelColor=DF0174?&logo=linkedin&logoColor=white&link=https://www.linkedin.com/Jerry William ">
 </a>
 
-  <a href="mailto:wilguepardo@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailtoje.rr.y.wnasc@gmail.com" alt="Gmail" target="_blank">
   <img src = "https://img.shields.io/badge/-Gmail-DF0101?style=for-the-badge&labelColor=DF0174?&logo=gmail&logoColor=white&link=https://www.gmail.com/USERNAME" >
 </a>
 

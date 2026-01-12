@@ -1,11 +1,11 @@
 ##  Olá! Eu sou o Jerry
 - ⚡ Fui Projetista Elétrico por uma década, mas em 2020 decidi dizer adeus à Eletrotécnica e me entregar à paixão pela tecnologia ♡
-- 👨‍💻️ Eu gosto de criar e de ver os resultados dos meus projetos, por isso escolhi o Front-End!
+- 👨‍💻️ Eu gosto de criar e ver os resultados dos meus projetos, e inicialmente meus estudos me levaram a escolher o Front-End como porta de entrada nesse maravilhoso mundo da tecnologia. 
 <div style="display: inline_block">
 <img align="right" alt="Jerry-Matrix" height="73" width="73" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Loading_icon_cropped.gif">
 </div>
 
-- 🔭 Sou Jerry, Analista de Dados Pleno com 04 anos de experiência em análise de dados e inteligência de negócios. Com uma formação em Análise e Desenvolvimento de Sistemas, eu me especializei em coletar, processar e analisar grandes conjuntos de dados para identificar tendências e oportunidades de melhoria.
+- 🔭 Em 2022 iniciei minha carreira com meu primeiro estágio no ramo da tecnologia, e assim minhas experiências me direcionaram a me tornar um Analista de Dados Pleno, e com 04 anos de experiência em análise de dados e inteligência de negócios. Com uma formação em Análise e Desenvolvimento de Sistemas, eu me especializei em coletar, processar e analisar grandes conjuntos de dados para identificar tendências e oportunidades de melhoria.
 
 Minhas skills incluem:
 - Análise de dados estatísticos e avançados
@@ -14,7 +14,7 @@ Minhas skills incluem:
 - Identificação de oportunidades de melhoria e otimização de processos
 - Colaboração com equipes de negócios e TI para implementar soluções de dados
 
-Estou procurando uma oportunidade para aplicar minhas habilidades e experiência como Especialista de BI, ajudando a impulsionar o crescimento e a eficiência dos negócios através de insights baseados em dados.
+Sempre procuro uma oportunidade para aplicar minhas habilidades e experiência como Especialista de BI, ajudando a impulsionar o crescimento e a eficiência dos negócios através de insights baseados em dados.
 
 Através de minhas experiências no mercado de telecom, adquiri habilidades em Business Intelligence, fazendo tratativas com clientes e fornecedores B2B e B2C, e acredito poder contribuir diretamente de modo eficaz para o sucesso das organizações.
 - 😄 Pronomes: ele / dele

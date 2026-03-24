@@ -13,10 +13,11 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 <div align="center">
   <img 
-    alt="Jerry-Matrix" 
+    alt="Minha Imagem" 
     width="350" 
     height="263" 
-    src="https://cdn.dribbble.com/userupload/19449407/file/original-d2f941cc281b9df91bb4484bd5fb5a18.gif"
+    src="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f31393434393430372f66696c652f6f726967696e616c2d64326639343163633238316239646639316262343438346264356662356131382e676966](https://github.com/user-attachments/assets/ae44c6a0-9736-4639-a9d0-5917359e32ec).gif"
+
     style="border: 5px solid #87CEEB; border-radius: 10px;"
   >
 </div>

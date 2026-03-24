@@ -7,7 +7,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ## 👨‍💻 Sobre mim
 - Transformo dados em **insights estratégicos**  
-- Crio **dashboards interativos e relatórios visuais animados**  
+- Crio **dashboards interativos e relatórios visuais**  
 - Identifico oportunidades de **otimização de processos e melhorias de negócio**  
 - Experiência em **telecom, B2B e B2C**, colaborando com equipes multidisciplinares  
 
@@ -52,7 +52,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
 ![Dashboard Financeiro](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
 ![Dashboard Vendas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-![Dashboard BI](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
+![Dashboard BI](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 </div>
 
 ---

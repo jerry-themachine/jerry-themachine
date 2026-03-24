@@ -16,7 +16,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
     alt="Jerry-Matrix" 
     width="350" 
     height="263" 
-    src="(https://github.com/user-attachments/assets/e0428c17-e072-4595-b2e0-26b59cca8586)"
+    src="https://github.com/user-attachments/assets/e0428c17-e072-4595-b2e0-26b59cca8586"
     style="border: 5px solid #87CEEB; border-radius: 10px;"
   >
 </div>

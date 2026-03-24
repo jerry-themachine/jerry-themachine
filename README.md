@@ -1,6 +1,6 @@
 # Olá! Eu sou o Jerry 👋
 
-⚡ **De Projetista Elétrico a Analista de Dados Pleno**  
+⚡ **De Projetista Elétrico a Analista de Dados**  
 Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela tecnologia, focando em **Análise de Dados, BI e Inteligência de Negócios**.
 
 ---
@@ -11,13 +11,12 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 - Identifico oportunidades de **otimização de processos**  
 - Experiência em **telecom, B2B e B2C**  
 
-<div align="center">
+div align="center">
   <img 
-    alt="Minha Imagem" 
+    alt="Jerry-Matrix" 
     width="350" 
     height="263" 
-    src="![68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f31393434393430372f66696c652f6f726967696e616c2d64326639343163633238316239646639316262343438346264356662356131382e676966](https://github.com/user-attachments/assets/ae44c6a0-9736-4639-a9d0-5917359e32ec).gif"
-
+    src="https://cdn.dribbble.com/userupload/19449407/file/original-d2f941cc281b9df91bb4484bd5fb5a18.gif"
     style="border: 5px solid #87CEEB; border-radius: 10px;"
   >
 </div>

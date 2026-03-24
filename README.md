@@ -11,7 +11,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 - Identifico oportunidades de **otimização de processos**  
 - Experiência em **telecom, B2B e B2C**  
 
-div align="center">
+<div align="center">
   <img 
     alt="Jerry-Matrix" 
     width="350" 

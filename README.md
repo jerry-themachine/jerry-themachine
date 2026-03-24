@@ -17,17 +17,17 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ---
 
-## 💡 Skills & Tecnologias Animadas
+## 💡 Skills & Tecnologias
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white&animation=scale)  
-![SQL](https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white&animation=scale)  
-![Power BI](https://img.shields.io/badge/Power%20BI-80%25-yellow?style=for-the-badge&logo=microsoft-power-bi&logoColor=white&animation=scale)  
-![Tableau](https://img.shields.io/badge/Tableau-75%25-orange?style=for-the-badge&logo=tableau&logoColor=white&animation=scale)  
-![Excel](https://img.shields.io/badge/Excel-85%25-green?style=for-the-badge&logo=microsoft-excel&logoColor=white&animation=scale)  
-![ETL](https://img.shields.io/badge/ETL-80%25-lightgrey?style=for-the-badge&logoColor=white&animation=scale)  
-![Git](https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git&logoColor=white&animation=scale)
+![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-80%25-yellow?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
+![Tableau](https://img.shields.io/badge/Tableau-75%25-orange?style=for-the-badge&logo=tableau&logoColor=white)  
+![Excel](https://img.shields.io/badge/Excel-85%25-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![ETL](https://img.shields.io/badge/ETL-80%25-lightgrey?style=for-the-badge)  
+![Git](https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -52,8 +52,10 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
 ![Dashboard Financeiro](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
 ![Dashboard Vendas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
-![Dashboard BI](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+![Dashboard BI](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)  
 </div>
+
+---
 
 <div align="center" style="margin-top: 10px;">
 <a href="https://github.com/jerry-themachine" target="_blank">

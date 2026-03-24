@@ -52,7 +52,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <!-- Estatísticas gerais -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<!-- Linguagens destacadas -->
+<!-- Linguagens destacadas manualmente -->
 <div align="center" style="margin-top:10px;">
 <img alt="Python" height="30" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="SQL" height="30" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>

@@ -12,7 +12,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 - Experiência em **telecom, B2B e B2C**  
 
 <div align="center">
-<img alt="Jerry-Matrix" height="150" src="[https://upload.wikimedia.org/wikipedia/commons/9/92/Loading_icon_cropped.gif](https://cdn.dribbble.com/userupload/19449407/file/original-d2f941cc281b9df91bb4484bd5fb5a18.gif)">
+<img alt="Jerry-Matrix" height="550" src="[https://upload.wikimedia.org/wikipedia/commons/9/92/Loading_icon_cropped.gif](https://cdn.dribbble.com/userupload/19449407/file/original-d2f941cc281b9df91bb4484bd5fb5a18.gif)">
 </div>
 
 ---

@@ -52,17 +52,6 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <!-- Estatísticas gerais -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<!-- Linguagens mais usadas / destaque manual -->
-<div align="center" style="margin-top:10px;">
-<img alt="Python" height="30" src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="SQL" height="30" src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img alt="T-SQL" height="30" src="https://img.shields.io/badge/-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img alt="DAX" height="30" src="https://img.shields.io/badge/-DAX-0078D7?style=for-the-badge&logo=microsoftpowerbi&logoColor=white"/>
-</div>
-
-<!-- Linguagens do top-langs padrão -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=16&theme=radical"/>
-</div>
 
 <!-- Linguagens do top-langs padrão -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=16&theme=radical"/>

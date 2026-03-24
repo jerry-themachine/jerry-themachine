@@ -17,41 +17,28 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ---
 
-## 💡 Skills & Tecnologias
-
+### 💡 Skills & Tecnologias
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-90%25-brightgreen?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-85%25-blue?style=for-the-badge&logo=mysql&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-80%25-yellow?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-75%25-orange?style=for-the-badge&logo=tableau&logoColor=white)  
-![Excel](https://img.shields.io/badge/Excel-85%25-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
-![ETL](https://img.shields.io/badge/ETL-80%25-lightgrey?style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-90%25-red?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center" style="margin-top: 10px;">
-<img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img alt="PostgreSQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
-<img alt="Power BI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg"/>
-<img alt="Tableau" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"/>
-<img alt="Excel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg"/>
-<img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-<img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40" />
 </div>
 
 ---
 
-## 📊 Dashboards e Portfólio
+### 📊 Dashboards e Portfólio
 <div align="center">
-![Dashboard Financeiro](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)  
-![Dashboard Vendas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)  
+![Dashboard Financeiro](https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif)
+![Dashboard Vendas](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
 ![Dashboard BI](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
 </div>
 

@@ -14,8 +14,8 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
   <img 
     alt="Jerry-Matrix" 
-    width="500" 
-    height="375" 
+    width="350" 
+    height="263" 
     src="https://cdn.dribbble.com/userupload/19449407/file/original-d2f941cc281b9df91bb4484bd5fb5a18.gif"
     style="border: 5px solid #87CEEB; border-radius: 10px;"
   >

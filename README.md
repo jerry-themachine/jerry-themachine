@@ -1,15 +1,19 @@
-# Olá! Eu sou o Jerry 👋
+# 👋 Olá! Eu sou o Jerry
 
-⚡ **De Projetista Elétrico a Analista de Dados**  
-Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela tecnologia, focando em **Análise de Dados, BI e Inteligência de Negócios**.
+⚡ **Analista de Dados | Business Intelligence | Data Analytics**
+
+Após 10 anos como Projetista Elétrico, fiz uma transição estratégica para tecnologia em 2020.  
+Hoje atuo com **análise de dados, BI e inteligência de negócios**, transformando dados em decisões.
 
 ---
 
-## 👨‍💻 Sobre mim
-- Transformo dados em **insights estratégicos**  
-- Crio **dashboards interativos** e relatórios visuais  
-- Identifico oportunidades de **otimização de processos**  
-- Experiência em **telecom, B2B e B2C**  
+## 🎯 Sobre mim
+
+- 📊 Transformo dados em **insights estratégicos**
+- 📈 Crio **dashboards interativos e KPIs de negócio**
+- ⚙️ Atuo com **ETL, modelagem e qualidade de dados**
+- 📡 Experiência em **telecom (B2B e B2C)**
+- 🤝 Forte atuação com áreas de negócio e tecnologia
 
 <div align="center">
   <img 
@@ -140,7 +144,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <a/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="jerrysk8_2005@hotmail.com" target="_blank">
-  <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato" title="jerrysk8_2005@hotmail.com" height="120" width="120"/>
+  <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato" title="jerrysk8_2005@hotmail.com" height="150" width="150"/>
 <a/>
 </div>
 </br>

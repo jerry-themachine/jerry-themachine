@@ -41,7 +41,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 <div align="center">
 <img src="assets/icons/imagem-sql_5.png" height="80" width="80"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="60" width="60"/>
+  <img src="assets/icons/imagem-excel.png" height="60" width="60"/>
 </div>
 <br>
 

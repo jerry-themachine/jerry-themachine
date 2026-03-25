@@ -144,7 +144,7 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 <a/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="jerrysk8_2005@hotmail.com" target="_blank">
-  <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato"  title="jerrysk8_2005@hotmail.com" style="height: 140px; width: 140; object-fit: cover; display: block;" />
+  <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato"  title="jerrysk8_2005@hotmail.com" style="height: 110px; width: 110; object-fit: cover; display: block;" />
 <a/>
 </div>
 </br>

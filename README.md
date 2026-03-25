@@ -27,6 +27,8 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
 <img src="https://img.shields.io/badge/ETL-Data%20Pipeline-6c757d?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETL-Data%20Engineering-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
+</div>  
+<div align="center">
 <img src="https://www.istockphoto.com/br/vetor/etl-sigla-de-carga-de-transforma%C3%A7%C3%A3o-de-extrato-gm1369267861-439057298" height="40" width="40"/>
 
 </div>

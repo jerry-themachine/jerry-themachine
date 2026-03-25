@@ -78,9 +78,9 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
 <img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" height="40" width="40"/>
-<img src="assets/icons/imagem-oracle.png" height="40" width="40"/>
-<img src="assets/icons/imagem-teradata.png" height="40" width="40"/>
-<img src="assets/icons/imagem-sas.png" height="40" width="40"/>
+<img src="assets/icons/imagem-oracle.png" height="60" width="60"/>
+<img src="assets/icons/imagem-teradata.png" height="60" width="60"/>
+<img src="assets/icons/imagem-sas.png" height="60" width="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>

@@ -136,6 +136,20 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ---
 
+## 📞 Contato
+<div align="center">
+<a href="linkedin.com/in/jerry-w-3b6228128">
+  <img src="assets/icons/imagem-linkedin.png" height="120" width="120"/>
+<a/>
+&nbsp&nbsp&nbsp&nbsp
+<a href="jerrysk8_2005@hotmail.com">
+  <img src="assets/icons/imagem-gmail.png" height="120" width="120"/>
+<a/>
+</div>
+</br>
+
+---
+
 <div align="center">
 <img alt="Jerry GIF" height="230" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Conejo_en_la_luna_or_The_Moon_Rabbit_can%27t_sleep.gif">
 </div>

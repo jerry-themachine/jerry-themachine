@@ -121,22 +121,6 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 
 ---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-themachine&theme=tokyonight&border_radius=15"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=6&theme=tokyonight&hide=html,css"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Stats
 
 <div align="center">

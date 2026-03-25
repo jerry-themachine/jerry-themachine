@@ -138,7 +138,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ## 📞 Contato
 <div align="center">
-<a href="linkedin.com/in/jerry-w-3b6228128" target="_blank">
+<a href="https://www.linkedin.com/in/jerry-w-3b6228128" target="_blank">
   <img src="assets/icons/imagem-linkedin.jpg" height="120" width="120"/>
 <a/>
 &nbsp&nbsp&nbsp&nbsp

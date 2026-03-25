@@ -140,7 +140,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <a/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="jerrysk8_2005@hotmail.com" target="_blank">
-  <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato" title="jerrysk8_2005@hotmail.com" height="150" width="100"/>
+  <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato" title="jerrysk8_2005@hotmail.com" height="120" width="120"/>
 <a/>
 </div>
 </br>

@@ -119,6 +119,24 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 ---
 
 ## 🏆 GitHub Stats
+
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
+
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-themachine&theme=radical&border_radius=20"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=6&theme=radical&hide=html,css"/>
+
+</div>
+
+
 <div align="center">
 
 <!-- Estatísticas gerais -->

@@ -27,7 +27,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
 <img src="https://img.shields.io/badge/ETL-Data%20Pipeline-6c757d?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETL-Data%20Engineering-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="[https://www.flaticon.com/br/icone-gratis/etl_9850908.svg](https://as1.ftcdn.net/jpg/04/75/02/72/1000_F_475027206_RzBc0iiF5op2WY8kStxyqjxvKzXMzUXU.jpg)" height="40" width="40"/>
+<img src="[[https://www.flaticon.com/br/icone-gratis/etl_9850908.svg](https://as1.ftcdn.net/jpg/04/75/02/72/1000_F_475027206_RzBc0iiF5op2WY8kStxyqjxvKzXMzUXU.jpg)](https://stock.adobe.com/br/images/etl-vector-icon-data-filled-flat-symbol-for-mobile-concept-and-web-design-black-management-glyph-icon-isolated-sign-logo-illustration-vector-graphics/475027206)" height="40" width="40"/>
 
 </div>
 

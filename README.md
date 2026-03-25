@@ -31,7 +31,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 <div align="center">
 <img src="assets/icons/imagem-etl.png" height="100" width="100"/>
-  <img src="assets/icons/imagem-eng.png" height="80" width="80"/>
+  <img src="assets/icons/imagem-eng.png" height="90" width="90"/>
 </div>
 <br>
 

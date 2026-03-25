@@ -42,7 +42,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </div>
 
 <div align="center">
-<img src="https://img.icons8.com/fluency/48/sql.png" height="75" width="75"/>
+<img src="assets/icons/imagem-sql_1.png" height="75" width="75"/>
 </div>
 
 ---

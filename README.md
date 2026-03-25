@@ -103,10 +103,11 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 <div align="center">
 <img src="assets/icons/imagem-dash.png" height="200" width="200"/>
+  <img src="assets/icons/imagem-dash_5.png" height="200" width="200"/>
 <img src="assets/icons/imagem-dash_1.png" height="200" width="200"/> 
 <img src="assets/icons/imagem-dash_2.png" height="200" width="200"/>
-<img src="assets/icons/imagem-dash_3.png" height="200" width="200"/>
-<img src="assets/icons/imagem-dash_5.png" height="200" width="200"/>
+<img src="assets/icons/imagem-dash_4.png" height="200" width="200"/>
+
 </div>
 <br>
 

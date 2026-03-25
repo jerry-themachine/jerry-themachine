@@ -15,15 +15,14 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 - 📡 Experiência em **telecom (B2B e B2C)**
 - 🤝 Forte atuação com áreas de negócio e tecnologia
 
-<div align="center">
-  <img 
-    alt="Jerry-Matrix" 
-    width="350" 
-    height="263" 
-    src="https://github.com/user-attachments/assets/e0428c17-e072-4595-b2e0-26b59cca8586"
-    style="border: 5px solid #87CEEB; border-radius: 10px;"
-  >
-</div>
+---
+
+## 🧠 Mentalidade
+
+- 📊 Data-driven decision making  
+- 📈 Foco em geração de valor para o negócio  
+- 🔄 Melhoria contínua baseada em dados  
+- 🤝 Integração entre tecnologia e áreas de negócio  
 
 ---
 

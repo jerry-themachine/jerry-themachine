@@ -60,7 +60,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </br>
 
 <div align="center">
-<img src="assets/icons/imagem-teams.png" height="60" width="60"/>
+<img src="assets/icons/imagem-teams.png" height="40" width="40"/>
 <img src="assets/icons/imagem-ppt.png" height="60" width="60"/>
 <img src="assets/icons/imagem-outlook.jpg" height="60" width="60"/>
 <img src="assets/icons/imagem-googlesheets.webp" height="60" width="60"/>

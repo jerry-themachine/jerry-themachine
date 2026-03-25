@@ -30,7 +30,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </div>  
 
 <div align="center">
-<img src="https://www.istockphoto.com/br/vetor/etl-sigla-de-carga-de-transforma%C3%A7%C3%A3o-de-extrato-gm1369267743-439057290" height="40" width="40"/>
+<img src="assets/icons/imagem-etl.png" height="40" width="40"/>
 
 </div>
 

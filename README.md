@@ -66,6 +66,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <img src="assets/icons/imagem-eng.png" height="90" width="90"/>
 <img src="assets/icons/imagem-nuvem.png" height="90" width="90"/>
 </div>
+</br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Storytelling-Data%20Storytelling-6A5ACD?style=for-the-badge&logo=powerbi&logoColor=white"/>

@@ -62,12 +62,10 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
   
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
-<img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png?raw=true" height="40" width="40"/>
-<img src="https://img.icons8.com/color/48/tableau-software.png" height="40" width="40"/>
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40" width="40"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>

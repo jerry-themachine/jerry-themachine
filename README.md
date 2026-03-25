@@ -128,16 +128,6 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ---
 
-<!-- Estatísticas gerais -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-
-<!-- Linguagens do top-langs padrão -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
----
-
 ## 🌟 Interesses Profissionais 
 <i>#BusinessIntelligence #DataAnalytics #SQL #Python #PowerBI #Tableau #Excel #ETL #ModelagemDeDados #ProcessosEficientes #Telecom #Automação #DashboardsInterativos</i>
 

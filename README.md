@@ -30,24 +30,6 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 ## 🧠 Data Stack & Analytics
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/ETL-Data%20Engineering-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-0A66C2?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Performance-KPIs%20%26%20Metrics-228B22?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Risk-Analysis-DC143C?style=for-the-badge&logo=databricks&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Storytelling-Data%20Storytelling-6A5ACD?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-</div>
-
----
-
-
-## 💡 Skills & Tecnologias
-<div align="center">
 <img src="https://img.shields.io/badge/ETL-Data%20Pipeline-6c757d?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/ETL-Data%20Engineering-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>  

@@ -138,7 +138,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <a href="https://www.linkedin.com/in/jerry-w-3b6228128" target="_blank">
   <img src="assets/icons/imagem-linkedin.jpg" height="120" width="120"/>
 <a/>
-&nbsp&nbsp&nbsp&nbsp
+&nbsp&nbsp
 <a href="jerrysk8_2005@hotmail.com" target="_blank">
   <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato" title="jerrysk8_2005@hotmail.com" height="100" width="100"/>
 <a/>

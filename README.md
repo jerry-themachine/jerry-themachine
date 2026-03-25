@@ -132,6 +132,22 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-themachine&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=8&theme=tokyonight&border_radius=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=6&theme=radical&hide=html,css"/>
 
 </div>

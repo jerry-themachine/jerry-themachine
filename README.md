@@ -46,6 +46,13 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </div>
 
 ---
+
+<div align="center">
+<img src="https://img.shields.io/badge/Performance%20Indicators-KPIs%20%26%20Metrics-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Risk%20Analysis-Risk%20Management-DC143C?style=for-the-badge&logo=databricks&logoColor=white"/>
+</div>
+
+---
   
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" height="40" width="40"/>

@@ -100,18 +100,18 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <img src="https://img.shields.io/badge/Dashboards-Development-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Portfolio-Profile%20Professional-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
+</br>
 
 <div align="center">
 <img src="assets/icons/imagem-dash.png" height="300" width="300"/>
-&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp
 <img src="assets/icons/imagem-dash_2.png" height="300" width="310"/>
-&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp
 <img src="assets/icons/imagem-dash_1.png" height="300" width="280"/>
 </br>
 <img src="assets/icons/imagem-dash_5.png" height="300" width="295"/>
-&nbsp&nbsp
+&nbsp&nbsp&nbsp&nbsp
 <img src="assets/icons/imgem-dash_3.png" height="300" width="280"/>
-
 </div>
 <br>
 

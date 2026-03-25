@@ -26,6 +26,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 ## 💡 Skills & Tecnologias
 <div align="center">
 <img src="https://img.icons8.com/fluency/48/sql.png" height="40" width="40"/>
+<img src="https://img.shields.io/badge/ETL-Data%20Pipeline-6c757d?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 <img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>

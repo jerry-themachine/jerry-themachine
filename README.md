@@ -69,7 +69,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Storytelling-Data%20Storytelling-6A5ACD?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Storytelling-Data%20Storytelling-6A5ACD?style=for-the-badge&logo=kibana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Performance%20Results-Business%20Performance-228B22?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
 </div>  
 <br>

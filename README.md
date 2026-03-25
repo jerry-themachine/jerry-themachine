@@ -127,7 +127,7 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=20"/>
 
-<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-themachine&theme=radical&border_radius=20"/>
+<img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-themachine&theme=radical&border_radius=20&theme=tokyonight&hide=html,css"/>
 
 </div>
 

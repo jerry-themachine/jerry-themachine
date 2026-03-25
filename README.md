@@ -110,7 +110,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </br>
 <img src="assets/icons/imagem-dash_2.png" height="300" width="300"/>
 &nbsp&nbsp
-<img src="assets/icons/imagem-dash_3.png" height="300" width="300"/>
+<img src="assets/icons/imgem-dash_3.png" height="300" width="300"/>
 
 </div>
 <br>

@@ -97,12 +97,18 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ## 📊 Dashboards e Portfólio
 <div align="center">
-[Dashboard Financeiro - Link](https://your-link-powerbi.com)  
-[Dashboard Vendas - Link](https://your-link-tableau.com)  
-[Dashboard BI - Link](https://your-link-excel.com)  
+<img src="https://img.shields.io/badge/Dashboards-Data%20Visualization-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Analytics-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
-> ⚠️ Observação: GitHub README não suporta dashboards interativos, por isso **apenas links externos ou GIFs genéricos** funcionam.
+<div align="center">
+<img src="assets/icons/imagem-sql_5.png" height="80" width="80"/>
+<img src="assets/icons/imagem-nuvem.png" height="90" width="90"/> 
+<img src="assets/icons/imagem-excel.png" height="70" width="70"/>
+<img src="assets/icons/imagem-pbi.png" height="80" width="80"/>
+<img src="assets/icons/imagem-tab.png" height="100" width="100"/>
+</div>
+<br>
 
 ---
 

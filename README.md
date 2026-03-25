@@ -140,7 +140,7 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 ## 📞 Contato
 <div align="center" style="display: flex; flex-direction: row; align-items: stretch; gap: 10px;">
 <a href="https://www.linkedin.com/in/jerry-w-3b6228128" target="_blank">
-  <img src="assets/icons/imagem-linkedin.jpg" style="height: 100px; width: auto; object-fit: cover; display: block;" height="80" width="80"/>
+  <img src="assets/icons/imagem-linkedin.jpg" style="height: 80px; width: auto; object-fit: cover; display: block;" height="80" width="80"/>
 <a/>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 <a href="jerrysk8_2005@hotmail.com" target="_blank">

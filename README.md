@@ -141,10 +141,10 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 <div style="display: flex; flex-direction: row; white-space: nowrap; align-items: center; width: fit-content;">
   <a href="https://www.linkedin.com/in/jerry-w-3b6228128" target="_blank">
     <img src="assets/icons/imagem-linkedin.jpg" style="height: 150px; width: auto; display: inline-block; margin-right: 10px;"/>
-<a/>
+  </a>
 <a href="jerrysk8_2005@hotmail.com" target="_blank">
-      <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato"  title="jerrysk8_2005@hotmail.com" style="height: 180px; width: auto; display: inline-block;"/>
-<a/>  
+      <img src="assets/icons/imagem-gmail.jpg" alt="E-mail de contato"  title="jerrysk8_2005@hotmail.com" style="height: 150px; width: auto; display: inline-block;"/>
+</a>  
 </div>
 </br>
 

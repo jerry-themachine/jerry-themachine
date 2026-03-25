@@ -57,6 +57,21 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <img src="https://img.shields.io/badge/Performance%20Indicators-KPIs%20%26%20Metrics-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Risk%20Analysis-Risk%20Management-DC143C?style=for-the-badge&logo=databricks&logoColor=white"/>
 </div>
+</br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Storytelling-Data%20Storytelling-6A5ACD?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Performance%20Results-Business%20Performance-228B22?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
+</div>  
+
+<div align="center">
+<img src="assets/icons/imagem-db.png" height="110" width="110"/>
+<img src="assets/icons/imagem-python.webp" height="90" width="90"/>
+<img src="assets/icons/imagem-etl.png" height="100" width="100"/>
+<img src="assets/icons/imagem-eng.png" height="90" width="90"/>
+<img src="assets/icons/imagem-nuvem.png" height="90" width="90"/>
+</div>
+<br>
 
 ---
   

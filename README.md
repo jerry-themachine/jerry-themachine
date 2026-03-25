@@ -88,8 +88,6 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
 </div>
 
@@ -129,31 +127,6 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </div>
 
 ---
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jerry-themachine&theme=tokyonight&border_radius=15"/>
-
-</div>
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=8&theme=tokyonight&border_radius=15"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerry-themachine&layout=compact&langs_count=6&theme=radical&hide=html,css"/>
-
-</div>
-
-
-<div align="center">
 
 <!-- Estatísticas gerais -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerry-themachine&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

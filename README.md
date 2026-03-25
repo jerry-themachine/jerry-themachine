@@ -39,7 +39,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Data%20Quality-Data%20Governance-2E8B57?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Quality-Data%20Governance-2E8B57?style=for-the-badge&logo=grafana&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-0A66C2?style=for-the-badge&logo=snowflake&logoColor=white"/>
 </div>
 

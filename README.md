@@ -60,10 +60,10 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 </br>
 
 <div align="center">
-<img src="assets/icons/imagem-teams.png" height="110" width="110"/>
-<img src="assets/icons/imagem-pph.webp" height="90" width="90"/>
-<img src="assets/icons/imagem-outlook.png" height="100" width="100"/>
-<img src="assets/icons/imagem-googlesheets.png" height="90" width="90"/>
+<img src="assets/icons/imagem-teams.png" height="60" width="60"/>
+<img src="assets/icons/imagem-ppt.webp" height="60" width="60"/>
+<img src="assets/icons/imagem-outlook.jpg" height="60" width="60"/>
+<img src="assets/icons/imagem-googlesheets.webp" height="60" width="60"/>
 <img src="assets/icons/imagem-nuvem.png" height="90" width="90"/>
 </div>
 </br>

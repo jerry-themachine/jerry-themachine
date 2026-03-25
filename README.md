@@ -37,11 +37,18 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 ---
 
 <div align="center">
-<img src="https://img.icons8.com/fluency/48/sql.png" height="40" width="40"/>
 <img src="https://img.shields.io/badge/Data%20Quality-Data%20Governance-2E8B57?style=for-the-badge&logo=databricks&logoColor=white"/>
 <img src="https://img.shields.io/badge/Data%20Analytics-Business%20Intelligence-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" height="40" width="40"/>
+</div>
 
+<div align="center">
+<img src="https://img.icons8.com/fluency/48/sql.png" height="40" width="40"/>
+</div>
+
+---
+  
+<div align="center">
+<img src="https://img.icons8.com/fluency/48/data-in-both-directions.png" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="40"/>

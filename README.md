@@ -138,7 +138,7 @@ Hoje atuo com **análise de dados, BI e inteligência de negócios**, transforma
 ---
 
 ## 📞 Contato
-<div align="center" style="display: flex; align-items: center; gap: 10px;">
+<div align="center" style="display: flex; align-items: flex-start; gap: 10px;">
 <a href="https://www.linkedin.com/in/jerry-w-3b6228128" target="_blank">
   <img src="assets/icons/imagem-linkedin.jpg" style="max-width: 200px;" height="100" width="100"/>
 <a/>

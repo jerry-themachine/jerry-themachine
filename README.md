@@ -97,8 +97,8 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 ## 📊 Dashboards e Portfólio
 <div align="center">
-<img src="https://img.shields.io/badge/Dashboards-Data%20Visualization-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Portfolio-Projects%20%26%20Analytics-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dashboards-Development-0A66C2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Profile%20%26%20Professional-FF8C00?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
 <div align="center">

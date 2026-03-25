@@ -31,9 +31,8 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 
 <div align="center">
 <img src="assets/icons/imagem-etl.png" height="100" width="100"/>
-
 </div>
-
+<br>
 
 <div align="center">
 <img src="https://img.shields.io/badge/Data%20Quality-Data%20Governance-2E8B57?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -43,6 +42,7 @@ Após 10 anos em engenharia elétrica, em 2020 decidi seguir minha paixão pela 
 <div align="center">
 <img src="assets/icons/imagem-sql_5.png" height="80" width="80"/>
 </div>
+<br>
 
 
 <div align="center">
